@@ -1,5 +1,4 @@
-package enji.baekjoon;
-public class App {
+public class PressKeypad {
     public static void main(String[] args) throws Exception {
         
     }
