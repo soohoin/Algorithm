@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- *  게임 맵 최단거리
+ *  카카오 컬러링북
  *  https://programmers.co.kr/learn/courses/30/lessons/1844
  */
 public class KakaoColoringBook {

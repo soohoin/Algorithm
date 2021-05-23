@@ -72,7 +72,7 @@ public class PressKeypad {
     }
     
     // 거리계산 후 버튼클릭
-    public void pressHardChoice(int leftMinusRight, int targetTemp,String defaultHand,StringBuffer result) {
+    public void pressHardChoice(int leftMinusRight, int targetTemp, String defaultHand, StringBuffer result) {
         if(leftMinusRight == 0) {
             result.append(defaultHand);
 
