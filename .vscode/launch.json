@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Level03_11",
+            "request": "launch",
+            "mainClass": "level03.Level03_11",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level03_10",
+            "request": "launch",
+            "mainClass": "level03.Level03_10",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level03_09",
+            "request": "launch",
+            "mainClass": "level03.Level03_09",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level03_07",
+            "request": "launch",
+            "mainClass": "level03.Level03_07",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level03_05",
+            "request": "launch",
+            "mainClass": "level03.Level03_05",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level03_03",
+            "request": "launch",
+            "mainClass": "level03.Level03_03",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level03_02",
+            "request": "launch",
+            "mainClass": "level03.Level03_02",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bingglebinggle",
+            "request": "launch",
+            "mainClass": "Bingglebinggle",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch CacheCost",
+            "request": "launch",
+            "mainClass": "CacheCost",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encryption",
+            "request": "launch",
+            "mainClass": "Encryption",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch KakaoColoringBook",
+            "request": "launch",
+            "mainClass": "KakaoColoringBook",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainTest",
+            "request": "launch",
+            "mainClass": "MainTest",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch NormalRectangle",
+            "request": "launch",
+            "mainClass": "NormalRectangle",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch NutritionFacts",
+            "request": "launch",
+            "mainClass": "NutritionFacts",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch PressKeypad",
+            "request": "launch",
+            "mainClass": "PressKeypad",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintString",
+            "request": "launch",
+            "mainClass": "PrintString",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchMaps",
+            "request": "launch",
+            "mainClass": "SearchMaps",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch WorkoutClotes",
+            "request": "launch",
+            "mainClass": "WorkoutClotes",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level02_01",
+            "request": "launch",
+            "mainClass": "level02.Level02_01",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level02_02",
+            "request": "launch",
+            "mainClass": "level02.Level02_02",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level02_03",
+            "request": "launch",
+            "mainClass": "level02.Level02_03",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level02_04",
+            "request": "launch",
+            "mainClass": "level02.Level02_04",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level02_05",
+            "request": "launch",
+            "mainClass": "level02.Level02_05",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level03_01",
+            "request": "launch",
+            "mainClass": "level03.Level03_01",
+            "projectName": "Algorithm_5426e883"
+        }
+    ]
+}

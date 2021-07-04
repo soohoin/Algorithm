@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "src/yeongcheol/test copy",
         "src/yeongcheol/programers",
+        "src/yeongcheol/gooroom",
         "src/yeongcheol/baekjoon",
-        "src/yeongcheol/gooroom"
+        "src/yeongcheol/test copy 2"
     ]
 }
