@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 public class Level03_11 {
     // 10871번 - X보다 작은 수
     public static void main(String[] args) throws IOException {
-        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in)); //선언
+        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         StringTokenizer st = new StringTokenizer(bf.readLine());

@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 public class Level03_09 {
     // 2438번 - 별 찍기 - 1
     public static void main(String[] args) throws IOException {
-        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in)); //선언
+        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         StringBuffer sbf = new StringBuffer();
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         int num = Integer.parseInt(bf.readLine());
