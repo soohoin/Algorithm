@@ -6,17 +6,17 @@
     "configurations": [
         {
             "type": "java",
-<<<<<<< HEAD
             "name": "Launch Level05_06",
             "request": "launch",
             "mainClass": "level05.Level05_06",
             "projectName": "Algorithm_5426e883"
-=======
+        },
+        {
+            "type": "java",
             "name": "Launch Level05_07",
             "request": "launch",
             "mainClass": "level05.Level05_07",
             "projectName": "Algorithm_7379c04c"
->>>>>>> 901cdb9414d5cda6d0b8df38528b5376de196fca
         },
         {
             "type": "java",
