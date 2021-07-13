@@ -10,7 +10,7 @@ public class Level05_05 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int subjectCnt = Integer.valueOf(br.readLine());
         int subjectScore, maxScore = 0;
-        double sum = 0.0; 
+        double sum = 0.0;
         StringTokenizer st = new StringTokenizer(br.readLine());
         for(int i=0; i<subjectCnt; i++) {
             subjectScore = Integer.valueOf(st.nextToken());
