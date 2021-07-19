@@ -1,11 +1,11 @@
-package level06;
+package level07;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Level06_04 {  
-    // 10809 - 알파벳 찾기
+public class Level07_03 {
+    // 10809번 - 알파벳 팢기
     public static void main(String[] args) throws NumberFormatException, IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
