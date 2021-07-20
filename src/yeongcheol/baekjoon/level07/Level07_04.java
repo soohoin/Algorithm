@@ -13,14 +13,18 @@ public class Level07_04 {
         int t = Integer.valueOf(br.readLine());
         StringTokenizer st;
         int r;
-        String s;
+        String s, c;
         for(int i=0; i<t; i++) {
             st = new StringTokenizer(br.readLine());
             r = Integer.valueOf(st.nextToken());
             s = st.nextToken();
             for(int j=0; j<s.length(); j++) {
-                
+                c = s.substring(j, j+1);
+                for(int k=0; k<r; k++) {
+                    sb.append(c);
+                }
             }
+            sb.append("\n");
         }
         System.out.println(sb);
     }
