@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Level07_08",
+            "request": "launch",
+            "mainClass": "level07.Level07_08",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level07_07",
+            "request": "launch",
+            "mainClass": "level07.Level07_07",
+            "projectName": "Algorithm_5426e883"
+        },
+        {
+            "type": "java",
             "name": "Launch Level07_06",
             "request": "launch",
             "mainClass": "level07.Level07_06",
