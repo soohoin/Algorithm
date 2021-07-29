@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class Level07_09 {
     
-    // 5622번 - 다이얼
+    // 2941번 크로아티아 알파벳
     public static void main(String[] args) throws NumberFormatException, IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();
