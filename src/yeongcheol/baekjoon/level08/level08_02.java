@@ -13,8 +13,8 @@ public class level08_02 {
         int checkNumber = 1;
         while(true) {
             if(n <= checkNumber) break;
+            checkNumber += (distance) * 6;
             distance++;
-            checkNumber += (distance-1) * 6;
         }
         System.out.println(distance);
     }
